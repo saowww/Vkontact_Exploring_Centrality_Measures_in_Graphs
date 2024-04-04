@@ -1,4 +1,5 @@
 # Centrality Measures in Graphs (VK Mutual Friends)
+
 This project is designed to analyze mutual friends among users on the VK social media platform and compute different centrality measures to identify influential users within the network. VK is a popular social networking platform widely used in Russia and neighboring countries.
 
 Vertex centrality in a graph is a vector that assigns a numerical value (index) to each vertex of the graph.
@@ -31,3 +32,5 @@ Eigenvector Centrality: The centrality of vertex i depends on the centralities o
 ![image](https://github.com/saowww/Vkontact_Exploring_Centrality_Measures_in_Graphs/assets/66699311/d3a4d39d-766c-4308-9e89-00af77f3c05f)
 ![image](https://github.com/saowww/Vkontact_Exploring_Centrality_Measures_in_Graphs/assets/66699311/d14ba907-9aa4-4452-bf36-da641deb20a1)
 
+## Results 
+![image](https://github.com/saowww/Vkontact_Exploring_Centrality_Measures_in_Graphs/assets/66699311/6936dc07-8ab3-489c-aee6-bc3886f599d4)
